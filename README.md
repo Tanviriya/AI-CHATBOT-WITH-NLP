@@ -1,17 +1,3 @@
-# AI-CHATBOT-WITH-NLP
-
-*COMPANY*:CODTECH IT SOLUTIONS
-
-*NAME*:TANVI
-
-*INTERN ID*:CT04WM88
-
-*DOMAIN NAME*: PYTHON PROGRAMMING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*:  NEELA SANTOSH
-
 
 #OUTPUT
 ![Screenshot 2025-04-12 185259](https://github.com/user-attachments/assets/07ed5925-df82-4518-a5e4-fa4a91865f40)
@@ -53,6 +39,5 @@ python chatbot.py
 
 👨‍💻 Developed By
 ***TANVI***
-Intern, CODTECH
 
 
